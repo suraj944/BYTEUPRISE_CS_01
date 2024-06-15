@@ -25,7 +25,7 @@ The application categorizes the password strength into three levels:
 2. Clone the repository or download the source code.
 
     ```bash
-    git clone https://github.com/yourusername/password-complexity-checker.git
+    git clone https://github.com/suraj944/BYTEUPRISE_CS_01.git
     cd password-complexity-checker
     ```
 
