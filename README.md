@@ -26,7 +26,7 @@ The application categorizes the password strength into three levels:
 
     ```bash
     git clone https://github.com/suraj944/BYTEUPRISE_CS_01.git
-    cd password-complexity-checker
+    cd BYTEUPRISE_CS_01-main
     ```
 
 ## Usage
@@ -36,7 +36,7 @@ The application categorizes the password strength into three levels:
 2. Run the application:
 
     ```bash
-    python password_checker.py
+    python Password Complexity Cheker.py
     ```
 
 3. Enter a password in the input field and click the "Check Password" button.
